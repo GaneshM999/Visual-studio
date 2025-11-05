@@ -1,2 +1,3 @@
 ﻿int a = 10;
-System.Console.WriteLine(a);
+int b = 11;
+System.Console.WriteLine(a+b);
